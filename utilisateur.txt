@@ -1,0 +1,4 @@
+nom1 mot_de_passe1 1
+nom2 mot_de_passe2 0
+nom3 mot_de_passe3 1
+
